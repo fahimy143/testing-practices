@@ -1,0 +1,23 @@
+{
+  "name": "testing-practices",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fahimy143/testing-practices.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fahimy143/testing-practices/issues"
+  },
+  "homepage": "https://github.com/fahimy143/testing-practices#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
